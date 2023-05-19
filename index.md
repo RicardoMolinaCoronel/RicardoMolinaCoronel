@@ -8,7 +8,7 @@ En producción y en fase de pruebas
 ## Tecnologias
 RFID
 ## Información de contacto
-[Enlace] (ricardom2314@hotmail.com)
+ricardom2314@hotmail.com
 
 
 
