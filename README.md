@@ -3,8 +3,14 @@
    <h3 align="center">¡Hola 👋! Soy Ricardo Molina</h3>
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RicardoMolina&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RicardoMolina&show_icons=true&theme=vue-dark#gh-dark-mode-only"/>
 </div>
+<p align="center">
+  <span style="width: 8px;"> </span>
+   <a href="www.linkedin.com/in/ricardo-duval-molina-coronel" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/300px-Linkedin.svg.png" alt="ricardomolina" height="23px" width="33px" />
+  </a>
+</p>
  <!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMolinaCoronel&layout=donut"/>
