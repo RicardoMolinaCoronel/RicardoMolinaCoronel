@@ -3,7 +3,10 @@
    <h3 align="center">¡Hola 👋! Soy Ricardo Molina</h3>
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RicardoMolina&show_icons=true"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut"/>
 </div>
 
 
