@@ -3,7 +3,7 @@
    <h3 align="center">¡Hola 👋! Soy Ricardo Molina</h3>
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RicardoMolina&show_icons=true&theme=vue-dark#gh-dark-mode-only"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RicardoMolinaCoronel&show_icons=true&theme=vue-dark#gh-dark-mode-only"/>
 </div>
 <p align="center">
   <span style="width: 8px;"> </span>
