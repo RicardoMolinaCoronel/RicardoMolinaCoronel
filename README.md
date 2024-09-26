@@ -3,7 +3,7 @@
    <h3 align="center">¡Hola 👋! Soy Ricardo Molina</h3>
 </p>
 <div align="center">
-![Ricardo Molina GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoMolinaCoronel&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 </div>
 
 
