@@ -5,9 +5,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RicardoMolina&show_icons=true"/>
 </div>
+ <!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMolinaCoronel&layout=donut"/>
 </div>
+-->
 
 
 
