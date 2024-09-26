@@ -1,5 +1,5 @@
 ### Holaaa 👋
-![Ricardo Molina GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoMolinaCoronel&show_icons=true&theme=vue-dark,prs)
+![Ricardo Molina GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoMolinaCoronel&show_icons=true&theme=vue-dark&show=prs)
 
 
 
