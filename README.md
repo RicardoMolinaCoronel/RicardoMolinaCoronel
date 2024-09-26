@@ -7,8 +7,8 @@
 </div>
 <p align="center">
   <span style="width: 8px;"> </span>
-   <a href="www.linkedin.com/in/ricardo-duval-molina-coronel" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/300px-Linkedin.svg.png" alt="ricardomolina" height="23px" width="33px" />
+   <a href="https://www.linkedin.com/in/ricardo-duval-molina-coronel-584650200/" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/300px-Linkedin.svg.png" alt="ricardomolina" height="50px" width="50px" />
   </a>
 </p>
  <!--
