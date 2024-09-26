@@ -1,10 +1,5 @@
-<p align="center" width="300">
-  <!-- <img align="center" width="200" src="https://github.com/RicardoMolinaCoronel/RicardoMolinaCoronel/blob/main/show.png?raw=true" />-->
-   <h3 align="center">¡Hola 👋! Soy Ricardo Molina</h3>
-</p>
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 
 
 
