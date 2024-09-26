@@ -1,9 +1,10 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/RicardoMolinaCoronel/RicardoMolinaCoronel/blob/main/show.png?raw=true" />
+  <!-- <img align="center" width="200" src="https://github.com/RicardoMolinaCoronel/RicardoMolinaCoronel/blob/main/show.png?raw=true" />-->
    <h3 align="center">¡Hola 👋! Soy Ricardo Molina</h3>
 </p>
+<div align="center">
 ![Ricardo Molina GitHub stats](https://github-readme-stats.vercel.app/api?username=RicardoMolinaCoronel&show_icons=true&theme=vue-dark&show=prs)
-
+</div>
 
 
 
