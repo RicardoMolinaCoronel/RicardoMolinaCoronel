@@ -6,6 +6,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RicardoMolinaCoronel&color=brightgreen&style=for-the-badge" alt="Profile Views" style="height:21px;">
 </div>
+
 <div align="center">
  <img alt="main image" src="./assets/cat-rounded.png" style="height:200px;" />
 </div>
@@ -15,7 +16,7 @@
 <p>
   <i >This is my personal portfolio, where I share my most recent projects, information and experience: </i>
 
-<a href="https://ricardomolinacoronel.tech/en" target="_blank" rel="noopener noreferrer">
+<a align='center' href="https://ricardomolinacoronel.tech/en" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
 </p>
