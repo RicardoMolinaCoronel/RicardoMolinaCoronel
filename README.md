@@ -137,11 +137,11 @@ Technically, I have extensive experience with <strong>Java, Kotlin, JavaScript, 
 
   </div>
 
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardoMolinaCoronel/RicardoMolinaCoronel/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RicardoMolinaCoronel/RicardoMolinaCoronel/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-</picture>
+</picture>-->
 <!--<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RicardoMolinaCoronel&show_icons=true&theme=vue-dark#gh-dark-mode-only"/>
 </div>-->
