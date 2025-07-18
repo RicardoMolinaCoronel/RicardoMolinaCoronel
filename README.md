@@ -3,17 +3,24 @@
    <h3 align="center">Hi! 👋  I'm Ricardo Molina</h3>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hear-No-Evil%20Monkey.png" alt="Hear-No-Evil Monkey" width="29" /> Portfolio
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RicardoMolinaCoronel&color=brightgreen&style=for-the-badge" alt="Profile Views" style="height:21px;">
+</div>
+<div align="center">
+ <img alt="main image" src="./assets/cat-rounded.png" style="height:200px;" />
+</div>
+
+## <img align='center' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnhzdzRyMmFvdjRqbXQ4dnNleWxpZWZmNzVwMGczZ3F3ZmFvbWx5aSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cso08H97IHVI2swTOd/giphy.gif" alt="Hear-No-Evil Monkey" width="29" /> Portfolio
 
 <p>
-  <i>This is my personal portfolio, where I share my most recent projects, information and experience: </i>
+  <i >This is my personal portfolio, where I share my most recent projects, information and experience: </i>
 
-<a href="https://ricardomolinacoronel.tech/en">
+<a href="https://ricardomolinacoronel.tech/en" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
 </p>
 
-## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
+## <img align ='center' src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eW9zcjl1dXBpcHNhb3dmYW41bWd1Z3d5YmFvMzFlMzRrZ2Y5OTk5OSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3og0IAzB7lmOo2q0Ss/giphy.gif" width="37" /> About Me
 
 Since the age of 15, when <strong>I began programming in C using Dev-C++</strong>, I discovered my passion for programming and technology—a motivation that has remained constant throughout my life. I’m currently pursuing a <strong>Master’s degree in Artificial Intelligence at UNIR</strong> and hold a degree in <strong>Computer Science Engineering from ESPOL, recognized as the top university in Ecuador for this and related fields</strong>. I specialize in Full-Stack development and Artificial Intelligence applied to data management, with up to 5 years of professional experience in these areas.
 
@@ -28,7 +35,7 @@ Technically, I have extensive experience with <strong>Java, Kotlin, JavaScript, 
   </a>
 </p>
 
-## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/techstack.gif"  width="29"/> Tech Stack
+## <img align ='center' src="https://i.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="37" /> Tech Stack
 
 
 #### Programming languages
@@ -116,7 +123,7 @@ Technically, I have extensive experience with <strong>Java, Kotlin, JavaScript, 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=fff)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fff)
 
-## <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/stats.gif"  width="32"/> Stats
+## <img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGVmaGRid3R3ZXNtem9tb25uMXdxZ2YybDBnb2E2enR2dWZ6eWx2MCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IzLejEn5juzsLN4AqX/giphy.gif"  width="32"/> Stats
 
 ### GitHub
 
