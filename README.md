@@ -16,7 +16,7 @@
 <p>
   <i >This is my personal portfolio, where I share my most recent projects, information and experience: </i>
 
-<a align='center' href="https://ricardomolinacoronel.tech/en" target="_blank" rel="noopener noreferrer">
+<a align='center' href="https://ricardomolinacoronel.tech/en" target="blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
 </a>
 </p>
