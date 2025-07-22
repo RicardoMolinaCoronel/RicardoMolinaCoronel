@@ -45,7 +45,9 @@ Technically, I have extensive experience with <strong>Java, Kotlin, JavaScript, 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-C--Sharp-brightgreen?style=for-the-badge&logo=csharp)
 ![PHP](https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=c&logoColor=white)
 
 #### Mobile Development
 ![Android SDK](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
