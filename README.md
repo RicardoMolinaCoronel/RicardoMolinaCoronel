@@ -55,6 +55,32 @@ Technically, I have extensive experience with <strong>Java, Kotlin, JavaScript, 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+#### AI & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=fff)
+![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000&style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1c3c3c.svg?style=for-the-badge&logo=langgraph&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-%2302569B.svg?style=for-the-badge&logo=rag&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=fff)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=fff)
+![Seaborn](https://img.shields.io/badge/Seaborn-%2302569B.svg?style=for-the-badge&logo=seaborn&logoColor=fff)
+![OpenCV](https://img.shields.io/badge/OpenCV-%2302569B.svg?style=for-the-badge&logo=open-cv&logoColor=fff)
+
+#### Backend
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-%23403294.svg?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%2302569B.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%2302569B.svg?style=for-the-badge&logo=jwt&logoColor=white)
+![Cloudfare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white&style=for-the-badge)
+![REST](https://img.shields.io/badge/REST-%2302569B.svg?style=for-the-badge&logo=rest&logoColor=white)
+
 #### Web Frontend
 ![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=white)
@@ -68,29 +94,9 @@ Technically, I have extensive experience with <strong>Java, Kotlin, JavaScript, 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%2302569B.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000?style=for-the-badge&logo=notion&logoColor=fff)
 
-#### Backend
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-%23403294.svg?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%2302569B.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%2302569B.svg?style=for-the-badge&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%2302569B.svg?style=for-the-badge&logo=jwt&logoColor=white)
-![Cloudfare](https://img.shields.io/badge/Cloudfare-%2302569B.svg?style=for-the-badge&logo=cloudfare&logoColor=white)
-![REST](https://img.shields.io/badge/REST-%2302569B.svg?style=for-the-badge&logo=rest&logoColor=white)
-
-#### AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=fff)
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=fff)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=fff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=fff)
-![Seaborn](https://img.shields.io/badge/Seaborn-%2302569B.svg?style=for-the-badge&logo=seaborn&logoColor=fff)
-![OpenCV](https://img.shields.io/badge/OpenCV-%2302569B.svg?style=for-the-badge&logo=open-cv&logoColor=fff)
 
 #### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
